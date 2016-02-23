@@ -1,0 +1,13 @@
+# Blender MTL File: 'rover_mesh.blend'
+# Material Count: 3
+
+newmtl Rover_Mtl
+Ns 123.529412
+Ka 1.000000 1.000000 1.000000
+Kd 0.793726 0.793726 0.793726
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd rover_diffuse.png
